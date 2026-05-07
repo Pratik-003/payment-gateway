@@ -1,5 +1,5 @@
 # Frontend Assignment – Payment Gateway
-
+🟢 **Live Demo:** [Click here to view the deployed application](https://payment-gateway-blond.vercel.app/)
 A fully responsive, simulated Payment Gateway built with Next.js (App Router), TypeScript, and Tailwind CSS. It manages complex form validation, auto-formatting, and simulates network delays and failures.
 
 ## 🚀 Tech Stack & Justifications
@@ -14,7 +14,7 @@ A fully responsive, simulated Payment Gateway built with Next.js (App Router), T
 ## ⚙️ Setup Instructions
 
 1. Clone the repository:
-   \`git clone <your-github-repo-link>\`
+   \`git clone <https://github.com/Pratik-003/payment-gateway>\`
 2. Navigate to the project directory:
    \`cd payment-gateway\`
 3. Install dependencies:
